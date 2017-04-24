@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".UserSettingsActivity" />
-        <activity android:name=".SettingsWorkLayout"></activity>
+        <activity android:name=".SettingsWorkLayout" />
+        <activity android:name=".client_editor"></activity>
     </application>
 
 </manifest>

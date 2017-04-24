@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">max-decor</string>
+    <string name="title_activity_client_editor">client_editor</string>
 </resources>
