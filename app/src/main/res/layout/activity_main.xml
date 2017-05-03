@@ -55,7 +55,7 @@
             </LinearLayout>
 
             <Button
-                android:id="@+id/button4"
+                android:id="@+id/userSettingsButton"
                 android:layout_width="32dp"
                 android:layout_height="32dp"
                 android:background="@drawable/settings" />
@@ -92,7 +92,7 @@
                     android:textSize="18sp" />
 
                 <Button
-                    android:id="@+id/button5"
+                    android:id="@+id/clientEditorButton"
                     android:layout_width="32dp"
                     android:layout_height="32dp"
                     android:background="@drawable/settings"
